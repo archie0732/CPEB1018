@@ -57,7 +57,7 @@ We have a proof that under these constraints, such a value of h
  ## 解題
 **應先具備以下能力**
 * [binary search]()
-* [vertor]()
+* [vertor](https://github.com/archie0732/c-library/blob/main/array/vector/README.md)
 * 知道從底部一層一層的看太慢了會`LTE`(~~MD我-2~~)
 
 **代名詞**  
